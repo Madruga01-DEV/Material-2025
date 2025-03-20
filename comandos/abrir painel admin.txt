@@ -1,0 +1,7 @@
+de o cargo de admin pelo painel padrão vorp 
+
+lista player > administração > avançãdo > definir group > admin
+
+apos use o comando :
+
+/admin

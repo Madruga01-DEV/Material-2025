@@ -1,0 +1,3 @@
+/time 12 12 
+
+use o exemplo do chat para usar como quiser

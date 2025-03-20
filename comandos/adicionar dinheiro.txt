@@ -1,0 +1,5 @@
+/addMoney 1 0 1000
+
+addMoney (id) (0= dollares) (quantidade)
+
+addMoney (id) (1= gold) (quantidade)

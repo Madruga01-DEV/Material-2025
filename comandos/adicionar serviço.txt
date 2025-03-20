@@ -1,0 +1,3 @@
+/addJob 1 Bando01 3 0
+
+addJob (ID) (JOB) (GRADE) (NOME OU 0)

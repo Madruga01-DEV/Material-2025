@@ -1,0 +1,4 @@
+/addItems 1 water 4
+
+
+additems (id) (item) (quantidade)
